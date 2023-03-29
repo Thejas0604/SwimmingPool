@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//hello
+//hello guys
 public class SwimmingPool {
     //Just give the count of people. This will generate objects.
     public static void main(String[] args) {
